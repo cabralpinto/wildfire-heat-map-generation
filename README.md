@@ -46,4 +46,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you use this project or find it helpful for your research, please consider citing the following paper:
 
-*João Cabral Pinto, Hugo Gonçalo Oliveira, Catarina Silva, Alberto Cardoso*, "Using Twitter Data and Natural Language Processing to Generate Wildfire Heat Maps", *28TH Portuguese Conference on Pattern Recognition (RECPAD 2022)*, *2022*.
+*João Cabral Pinto, Hugo Gonçalo Oliveira, Catarina Silva, Alberto Cardoso*, "Using Twitter Data and Natural Language Processing to Generate Wildfire Heat Maps", *28th Portuguese Conference on Pattern Recognition (RECPAD 2022)*, *2022*.

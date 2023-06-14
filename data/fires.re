@@ -1,0 +1,1 @@
+ ?(?:Incêndio|florestal|urbano|automóve(?:l|is)|(?<!\w)em|n[oa]|centro|restaurante|/|\d+) ?

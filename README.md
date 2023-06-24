@@ -1,6 +1,6 @@
 # Wildfire Heat Map Generation with Twitter and BERT
 
-This repository contains the code and resources for generating wildfire heat maps of Portugal using Twitter data and a fine-tuned BERT language model. The project was initially developed for the Portuguese conference RECPAD 2022 conference, where it was chosen as one of the top 4 papers. It also serves as the repository for the extended version of the paper, which will be published soon. The system can easily be extended to work with other countries or languages.
+This repository contains the code and resources for generating wildfire heat maps of Portugal using Twitter data and a fine-tuned BERT language model. The project was initially developed for the RECPAD 2022 conference, where it was chosen as one of the top 4 papers. It also serves as the repository for the extended version of the paper, which will be published soon. The system can easily be extended to work with other countries or languages.
 
 ## Description
 
